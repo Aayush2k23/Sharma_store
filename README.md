@@ -38,7 +38,7 @@ Sharma Store is seeking to boost its sales and capture a larger market share. Le
 ### Final Conclusion:
 Target Adult and Senior Women who lives in Maharashtra, Karnataka and Uttar Pradesh with the help of ads, offers and coupons on platforms like Amazon, Myntra and Flipkart.
 
-### Dashboard
+### Dashboard Image
 ![Screenshot (31212)](https://github.com/Aayush2k23/Sharma_store/assets/131526402/5ff0607c-cae2-4189-9f14-b78566a8e299)
 
 
